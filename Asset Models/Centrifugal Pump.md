@@ -2,7 +2,7 @@
 
 The structure below is based off the *Failure Mechanisms* and *Failure Causes* outlined in [IEC 14424-2016](https://www.iso.org/standard/64076.html).
 
-<img alt="Landing Page" src= "https://github.com/nicole-scheinbach/RCA/blob/7a8f040562a00adcd3232aabc1db06c5638532af/Pump-light.png" width ="50%" align="right"/>
+<img alt="Landing Page" src= "https://github.com/XMPro/Root-Cause-Analysis-Models/blob/main/Images/Pump-light.png" width ="50%" align="right"/>
  
  
  ## Failure Mechanism 
